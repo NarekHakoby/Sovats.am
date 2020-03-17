@@ -1,0 +1,3 @@
+am\sovats\pages\base\SovatsBasePageObject.class
+am\sovats\pages\home\SovatsHomePage.class
+am\sovats\pages\login\SovatsLoginPage.class
